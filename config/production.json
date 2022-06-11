@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "mySeceretKey$46732",
+  "db": "mongodb+srv://code:1111@projectmgmt.phqaz.mongodb.net/test"
+}

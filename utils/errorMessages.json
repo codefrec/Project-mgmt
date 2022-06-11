@@ -1,0 +1,19 @@
+{
+  "GLOBAL": {
+    "PRODUCT_NOT_FOUND": {
+      "status": 404,
+      "message": "Product Not found !"
+    },
+    "INVALID_OBJECT_ID": {
+      "status": 400,
+      "message": "Invalid ID!"
+    }
+  },
+  "PRODUCT_API": {},
+  "SHOPPING_CART_API": {
+    "CART_NOT_FOUND": {
+      "status": 404,
+      "message": "There is no cart of specified Id."
+    }
+  }
+}
